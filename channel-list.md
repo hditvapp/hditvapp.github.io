@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 番組表
+title: Channels List
 ---
-# GOTV Channels List
+# HDiTV Channels List
 
 #### 2021-06-01
 
