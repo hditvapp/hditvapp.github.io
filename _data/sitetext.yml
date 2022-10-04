@@ -91,7 +91,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Android"
-        url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v3.15/HDiTV_3.15.apk
+        url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v2/HDiTV_V2.apk
         logo: assets/img/clients/androidlogo.png
       - title: "iOS"
         url: https://apps.apple.com/us/app/id1287070962
