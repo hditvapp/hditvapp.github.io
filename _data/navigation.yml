@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     - title: "Channels"
       url: https://www.hditv.app/channel-list
     - title: "Blog"
-      url: /blog
+      url: https://www.hditv.app/blog
 en-US:
   <<: *DEFAULT_EN
 en-CA:
