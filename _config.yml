@@ -33,6 +33,8 @@ analytics:
 
 collections:
   portfolio:
+  posts:
+    output: true
 
 markdown: kramdown
 

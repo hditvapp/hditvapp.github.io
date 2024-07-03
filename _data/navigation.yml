@@ -29,6 +29,8 @@ en: &DEFAULT_EN
       url: https://www.hditv.app/#contact
     - title: "Channels"
       url: https://www.hditv.app/channel-list
+    - title: "Blog"
+      url: /blog
 en-US:
   <<: *DEFAULT_EN
 en-CA:
